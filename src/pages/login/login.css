@@ -1,0 +1,15 @@
+.logo{
+    width: 150px;
+    margin-top: 50px;
+}
+
+.agreetitle{
+    position: fixed;
+    bottom: 0px;
+    color: #cccccc;
+    text-align: center
+}
+.imgbox{
+    width: 150px;
+    /* 图片占位防抖动 */
+}

@@ -1,0 +1,17 @@
+.my-radio .am-radio{
+    border: 1px solid #ccc;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  /* margin-right: 5px; */
+  text-align: center;
+  vertical-align: middle;
+  box-sizing: border-box;
+  
+  }
+.am-radio-inner::after{
+    top: 5.5px!important;
+    right: 8px!important;
+}

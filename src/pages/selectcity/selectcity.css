@@ -1,0 +1,12 @@
+.bannerbar{
+    position: fixed;
+    width: 20px;
+    background-color: #CCC;
+    right: 0;
+    top: 10%;
+    line-height: 25px;
+    text-align: center
+}
+.city-big-container{
+    height: 100%;
+}

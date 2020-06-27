@@ -1,0 +1,71 @@
+.citysearch{
+    flex:0 0 60px;
+    color: #ffff;
+
+}
+.addresssearch{
+    flex:0 0 50px;
+}
+.search{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 25px;
+   color: #cccc;
+    height: 35px;
+    padding-left:15px;
+    box-sizing: border-box;
+}
+#top{
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    line-height: 40px;
+    background-color: #57AFF8;
+    padding:0px 15px;
+    box-sizing: border-box;
+}
+#top img{
+    width: 20px;
+    height: 20px;
+   
+}
+.lovelist{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 15px;
+
+}
+.imgs{
+    flex: 0 0 100px;
+    width: 90px;
+    height: 90px;
+    margin-right: 10px;
+}
+.price{
+    flex: 0 0 80px;
+    font-size: 16px;
+    color: red;
+    padding-top: 10px;
+}
+.main{
+    flex: 1;
+    font-size: 12px;
+    color: #A7A7A7;
+   
+}
+.main .title{
+   font-weight: bold;
+   font-size: 16px;
+   line-height: 25px;
+   color: black
+   
+}
+.main p{
+    margin-top: 5px;
+}
+p{
+    padding: 0px;
+    margin: 0px 
+}
